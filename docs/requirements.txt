@@ -1,4 +1,4 @@
-sphinx>=3,<4
+sphinx>=3,<6
 sphinxcontrib-napoleon
 alabaster
 jinja2<3.1
